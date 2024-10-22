@@ -44,4 +44,4 @@ ssh-copy-id root@private_ip of test-2 -- > yes -- > password
 ssh private_ip of test-2
 ctrl + d
 
-assh
+
